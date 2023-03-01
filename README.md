@@ -4,7 +4,7 @@ live stock data and technical analysis indicators. The technical analysis strate
 patterns in the stock market, providing them with valuable insights to make informed decisions about buying and selling stocks. With its advanced technical analysis 
 methods and automation features, this application is an excellent example of how technology can be utilized to improve trading efficiency and decision-making.
 
-# Content
+## Content
 * Installation
 * Usage
 * Examples
@@ -12,4 +12,10 @@ methods and automation features, this application is an excellent example of how
 * Contact
 * License
 
-# Installation
+## Installation
+
+* yfinance
+* pandas
+
+
+## Usage
